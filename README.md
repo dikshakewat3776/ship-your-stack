@@ -34,6 +34,7 @@ Each guide covers:
 | Stack | Description | Link |
 |-------|-------------|------|
 | React (Vite) + FastAPI + PostgreSQL | Fullstack app with Vercel + Render + Supabase | [Guide](./guides/react-fastapi-vercel-render-supabase.md) |
+| React/Vite Static Frontend | Deploy a static site to GitHub Pages with correct base path and publish flow | [Guide](./guides/github-pages.md) |
 | Express.js + Node + MongoDB | Fullstack deployment with Vercel + Railway | *Coming soon* |
 
 ---
