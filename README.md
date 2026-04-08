@@ -1,4 +1,4 @@
-# Deployverse 🚀
+# Ship Your Stack 🚀
 
 Production-ready deployment guides for modern fullstack apps.
 
