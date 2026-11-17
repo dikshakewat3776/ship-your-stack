@@ -1,0 +1,23 @@
+guides/python-fastapi-react-pm2-nginx.md
+  s_dbc5c1dd28e4ba::t_84f32b1c951dda 1-257
+guides/turborepo-nestjs-pm2.md
+  s_dbc5c1dd28e4ba::t_71355547586c4c 1-202
+guides/jenkins-node-express-pm2.md
+  s_dbc5c1dd28e4ba::t_fe20f3cc96daba 1-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e5137b60eac14c5c04b9b2568bc76ac8e485b5f",
+  "prompts": {},
+  "sessions": {
+    "s_dbc5c1dd28e4ba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "90d875dc-fa46-4f82-b240-63d377a04c63",
+        "model": "composer-2.5"
+      },
+      "human_author": "diksha.kewat <diksha.kewat@spicemoney.com>"
+    }
+  }
+}
