@@ -35,7 +35,9 @@ Each guide covers:
 |-------|-------------|------|
 | React (Vite) + FastAPI + PostgreSQL | Fullstack app with Vercel + Render + Supabase | [Guide](./guides/react-fastapi-vercel-render-supabase.md) |
 | React/Vite Static Frontend | Deploy a static site to GitHub Pages with correct base path and publish flow | [Guide](./guides/github-pages.md) |
-| Express.js + Node + MongoDB | Fullstack deployment with Vercel + Railway | *Coming soon* |
+| Turborepo + NestJS + PostgreSQL | pnpm monorepo on a VPS: Prisma migrate/seed, Turbo build, PM2 | [Guide](./guides/turborepo-nestjs-pm2.md) |
+| Python (FastAPI) + React | VPS staging: venv, Gunicorn/Uvicorn, PM2, Nginx path routing | [Guide](./guides/python-fastapi-react-pm2-nginx.md) |
+| Node.js (Express) + Jenkins + PM2 | Capistrano-style releases, atomic symlink, health check rollback | [Guide](./guides/jenkins-node-express-pm2.md) |
 
 ---
 
