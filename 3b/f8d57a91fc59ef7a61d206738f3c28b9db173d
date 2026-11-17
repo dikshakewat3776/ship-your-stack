@@ -1,0 +1,21 @@
+README.md
+  s_dbc5c1dd28e4ba::t_e4e45d7680f18c 40
+  s_dbc5c1dd28e4ba::t_b78616cd40b042 38
+  s_dbc5c1dd28e4ba::t_7cee21ffe5fcf6 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3bf8d57a91fc59ef7a61d206738f3c28b9db173d",
+  "prompts": {},
+  "sessions": {
+    "s_dbc5c1dd28e4ba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "90d875dc-fa46-4f82-b240-63d377a04c63",
+        "model": "composer-2.5"
+      },
+      "human_author": "diksha.kewat <diksha.kewat@spicemoney.com>"
+    }
+  }
+}
